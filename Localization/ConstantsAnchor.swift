@@ -20,10 +20,10 @@ extension CGFloat {
     static let radius: CGFloat = 10
     static let smallRadius: CGFloat = 5
     
-    // HeightSize
+    // FrameSize
     static let heightMultiplier: CGFloat = 0.3
     
-    // CromImage
+    // CropImage
     static let offsetX: CGFloat = 1
     static let offsetY: CGFloat = 1
     static let cropWith: CGFloat = 2
